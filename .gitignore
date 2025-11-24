@@ -1,28 +1,4 @@
 venv/
 __pycache__/
-.ipynb_checkpoints/'
-.DS_Store
-.env
-*.pyc
-.idea/
-.vscode/
-logs/
-*.log
-data
-data/processed/
-models/ 
-reports/figures/
-reports/tables/
-.notebook_checkpoints/
-*.sqlite3
-data/raw_analyst_ratings.csv
-# Ignore all wheel files
-*.whl
-# But not these specific ones
-!my_package-1.0-py3-none-any.whl
-# Ignore TA-Lib wheel
-ta_lib-0.6.8-cp311-cp311-win_amd64.whl
-data/
-*.whl
-.venv/
+.ipynb_checkpoints/
 data/
